@@ -1,0 +1,72 @@
+{
+  "updated": "2026-03-07",
+  "region": "미국",
+  "events": [
+    {
+      "id": "us-nfp-202603",
+      "date": "2026-03-09",
+      "title": "미국 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-cpi-202603",
+      "date": "2026-03-11",
+      "title": "미국 CPI(소비자물가)",
+      "subtitle": "물가·금리 기대에 직접 영향",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-ppi-202603",
+      "date": "2026-03-12",
+      "title": "미국 PPI(생산자물가)",
+      "subtitle": "CPI 선행 참고",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "medium",
+      "source": "BLS"
+    },
+    {
+      "id": "us-gdp-2nd-202603",
+      "date": "2026-03-13",
+      "title": "미국 실질 GDP 2차 발표",
+      "subtitle": "성장률 수정치",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "medium",
+      "source": "BEA"
+    },
+    {
+      "id": "us-pce-202603",
+      "date": "2026-03-13",
+      "title": "미국 PCE 물가·개인소득",
+      "subtitle": "연준이 중시하는 물가 지표",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BEA"
+    },
+    {
+      "id": "us-fomc-202603",
+      "date": "2026-03-17",
+      "title": "FOMC 정책금리 결정",
+      "subtitle": "분기 경제전망(SEP)·점도표 발표",
+      "region": "미국",
+      "time": "14:00",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "Federal Reserve"
+    }
+  ]
+}

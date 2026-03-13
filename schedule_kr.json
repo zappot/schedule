@@ -1,0 +1,72 @@
+{
+  "updated": "2026-03-07",
+  "region": "한국",
+  "events": [
+    {
+      "id": "kr-trade-202602",
+      "date": "2026-03-06",
+      "title": "한국 2월 무역수지",
+      "subtitle": "수출입 동향",
+      "region": "한국",
+      "time": "09:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "관세청"
+    },
+    {
+      "id": "kr-unemployment-202602",
+      "date": "2026-03-10",
+      "title": "한국 2월 실업률",
+      "subtitle": "통계청 고용동향",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "통계청"
+    },
+    {
+      "id": "kr-fsmeeting-202603",
+      "date": "2026-03-12",
+      "title": "한국은행 금융안정회의",
+      "subtitle": "금융안정상황 점검(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-csi-202602",
+      "date": "2026-03-13",
+      "title": "한국 2월 소비자동향지수(CSI)",
+      "subtitle": "한국은행 소비자심리지수",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-ip-202602",
+      "date": "2026-03-16",
+      "title": "한국 2월 산업생산지수",
+      "subtitle": "통계청 산업활동동향",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "통계청"
+    },
+    {
+      "id": "kr-cpi-202602",
+      "date": "2026-03-20",
+      "title": "한국 2월 소비자물가등락률",
+      "subtitle": "통계청 CPI 전월·전년비",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "통계청"
+    }
+  ]
+}
