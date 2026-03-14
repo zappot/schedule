@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07",
+  "updated": "2026-03-13",
   "region": "한국",
   "events": [
     {
@@ -67,6 +67,270 @@
       "timezone": "KST",
       "importance": "high",
       "source": "통계청"
+    },
+    {
+      "id": "kr-option-exp-202601",
+      "date": "2026-01-08",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202601",
+      "date": "2026-01-08",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202602",
+      "date": "2026-02-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202602",
+      "date": "2026-02-12",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202603",
+      "date": "2026-03-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202603",
+      "date": "2026-03-12",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202604",
+      "date": "2026-04-09",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202604",
+      "date": "2026-04-09",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202605",
+      "date": "2026-05-14",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202605",
+      "date": "2026-05-14",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202606",
+      "date": "2026-06-11",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202606",
+      "date": "2026-06-11",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202607",
+      "date": "2026-07-09",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202607",
+      "date": "2026-07-09",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202608",
+      "date": "2026-08-13",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202608",
+      "date": "2026-08-13",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202609",
+      "date": "2026-09-10",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202609",
+      "date": "2026-09-10",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202610",
+      "date": "2026-10-08",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202610",
+      "date": "2026-10-08",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202611",
+      "date": "2026-11-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202611",
+      "date": "2026-11-12",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202612",
+      "date": "2026-12-10",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-futures-exp-202612",
+      "date": "2026-12-10",
+      "title": "한국 선물만기(월간)",
+      "subtitle": "KOSPI200 선물 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
     }
   ]
 }
