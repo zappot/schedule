@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07",
+  "updated": "2026-03-14",
   "region": "미국",
   "events": [
     {
@@ -67,6 +67,39 @@
       "timezone": "ET",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-nvidia-gtc-2026",
+      "date": "2026-03-16",
+      "title": "엔비디아 GTC 2026",
+      "subtitle": "젠슨 황 기조연설",
+      "region": "미국",
+      "time": "",
+      "timezone": "PT",
+      "importance": "high",
+      "source": "NVIDIA"
+    },
+    {
+      "id": "us-ppi-feb-2026",
+      "date": "2026-03-18",
+      "title": "미국 2월 생산자물가지수(PPI)",
+      "subtitle": "물가 선행 지표",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-micron-earnings-202603",
+      "date": "2026-03-18",
+      "title": "마이크론 테크놀로지 실적 발표",
+      "subtitle": "반도체 업종 참고",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "Micron"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13",
+  "updated": "2026-03-14",
   "region": "한국",
   "events": [
     {
@@ -331,6 +331,127 @@
       "timezone": "KST",
       "importance": "high",
       "source": "KRX"
+    },
+    {
+      "id": "kr-nvidia-gtc-2026",
+      "date": "2026-03-16",
+      "title": "엔비디아 GTC 2026",
+      "subtitle": "젠슨 황 기조연설",
+      "region": "미국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "NVIDIA"
+    },
+    {
+      "id": "kr-hanwha-kosdaq-etf-202603",
+      "date": "2026-03-17",
+      "title": "한화자산운용 코스닥 액티브 ETF 출시",
+      "subtitle": "코스닥 시장 연계 상품",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "한화자산운용"
+    },
+    {
+      "id": "kr-fomc-202603",
+      "date": "2026-03-18",
+      "title": "FOMC 회의",
+      "subtitle": "연준 정책금리·경제전망",
+      "region": "미국",
+      "time": "14:00",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "Federal Reserve"
+    },
+    {
+      "id": "kr-ppi-202602",
+      "date": "2026-03-18",
+      "title": "미국 2월 생산자물가지수(PPI)",
+      "subtitle": "물가 선행 지표",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "kr-lisasu-amd-202603",
+      "date": "2026-03-18",
+      "title": "리사수 AMD CEO 방한",
+      "subtitle": "AMD 경영진 한국 방문",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": ""
+    },
+    {
+      "id": "kr-micron-earnings-202603",
+      "date": "2026-03-18",
+      "title": "마이크론 테크놀로지 실적 발표",
+      "subtitle": "반도체 업종 참고",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "Micron"
+    },
+    {
+      "id": "kr-samsung-shareholder-202603",
+      "date": "2026-03-18",
+      "title": "삼성전자 주주총회",
+      "subtitle": "정기 주주총회",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "삼성전자"
+    },
+    {
+      "id": "kr-boj-rate-202603",
+      "date": "2026-03-19",
+      "title": "BOJ 금리 결정",
+      "subtitle": "일본은행 정책금리",
+      "region": "일본",
+      "time": "",
+      "timezone": "JST",
+      "importance": "high",
+      "source": "BOJ"
+    },
+    {
+      "id": "kr-ecb-rate-202603",
+      "date": "2026-03-19",
+      "title": "ECB 금리 결정",
+      "subtitle": "유럽중앙은행 정책금리",
+      "region": "유로존",
+      "time": "",
+      "timezone": "CET",
+      "importance": "high",
+      "source": "ECB"
+    },
+    {
+      "id": "kr-crimson-desert-202603",
+      "date": "2026-03-19",
+      "title": "펄어비스 '붉은사막' 출시",
+      "subtitle": "국내 게임 퍼블리싱",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "펄어비스"
+    },
+    {
+      "id": "kr-bts-comeback-202603",
+      "date": "2026-03-20",
+      "title": "BTS 컴백 (광화문 공연)",
+      "subtitle": "관련주·엔터 시장 관심",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": ""
     }
   ]
 }
