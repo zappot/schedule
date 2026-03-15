@@ -9,7 +9,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -20,7 +20,7 @@
       "subtitle": "연준 정책금리·성명",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -31,7 +31,7 @@
       "subtitle": "메가캡·은행 등 실적·가이던스",
       "region": "미국",
       "time": "",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "각사"
     },
@@ -42,7 +42,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -53,7 +53,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -64,7 +64,7 @@
       "subtitle": "물가·금리 기대에 직접 영향",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -75,7 +75,7 @@
       "subtitle": "물가 선행 지표",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "medium",
       "source": "BLS"
     },
@@ -86,7 +86,7 @@
       "subtitle": "2025년 4Q 성장률 수정치",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "medium",
       "source": "BEA"
     },
@@ -97,18 +97,29 @@
       "subtitle": "연준이 중시하는 물가 지표",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BEA"
+    },
+    {
+      "id": "us-retail-sales-202603",
+      "date": "2026-03-16",
+      "title": "미국 2월 소매판매(Retail Sales)",
+      "subtitle": "소비 동향·경기 선행 참고",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "Census"
     },
     {
       "id": "us-nvidia-gtc-2026",
       "date": "2026-03-16",
       "title": "엔비디아 GTC 2026",
-      "subtitle": "젠슨 황 기조연설",
+      "subtitle": "젠슨 황 기조연설 (AI 컨퍼런스 시작)",
       "region": "미국",
       "time": "",
-      "timezone": "PT",
+      "timezone": "PDT",
       "importance": "high",
       "source": "NVIDIA"
     },
@@ -119,7 +130,7 @@
       "subtitle": "반도체 업종 참고",
       "region": "미국",
       "time": "",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Micron"
     },
@@ -130,9 +141,53 @@
       "subtitle": "3월 회의·경제전망(SEP)·점도표 발표",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-boj-rate-202603",
+      "date": "2026-03-19",
+      "title": "BOJ 금리 결정",
+      "subtitle": "일본은행 금융정책결정회합",
+      "region": "일본",
+      "time": "",
+      "timezone": "JST",
+      "importance": "high",
+      "source": "BOJ"
+    },
+    {
+      "id": "us-ecb-rate-202603",
+      "date": "2026-03-19",
+      "title": "ECB 금리 결정",
+      "subtitle": "유럽중앙은행 정책금리·기자회견",
+      "region": "유로존",
+      "time": "15:15",
+      "timezone": "CET",
+      "importance": "high",
+      "source": "ECB"
+    },
+    {
+      "id": "us-new-home-sales-202603",
+      "date": "2026-03-25",
+      "title": "미국 2월 신규주택판매",
+      "subtitle": "주택·금리 수요 참고",
+      "region": "미국",
+      "time": "10:00",
+      "timezone": "EDT",
+      "importance": "medium",
+      "source": "Census"
+    },
+    {
+      "id": "us-michigan-sentiment-202603",
+      "date": "2026-03-27",
+      "title": "미국 3월 미시건 소비자심리 최종",
+      "subtitle": "소비자심리·인플레이션 기대",
+      "region": "미국",
+      "time": "10:00",
+      "timezone": "EDT",
+      "importance": "medium",
+      "source": "U-Mich"
     },
     {
       "id": "us-nfp-202604",
@@ -141,7 +196,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -152,7 +207,7 @@
       "subtitle": "연준 정책금리·성명",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -163,7 +218,7 @@
       "subtitle": "1Q 실적·가이던스",
       "region": "미국",
       "time": "",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "각사"
     },
@@ -174,7 +229,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -185,7 +240,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -196,7 +251,7 @@
       "subtitle": "경제전망·점도표 발표",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -207,7 +262,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -218,7 +273,7 @@
       "subtitle": "연준 정책금리·성명",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -229,7 +284,7 @@
       "subtitle": "2Q 실적·가이던스",
       "region": "미국",
       "time": "",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "각사"
     },
@@ -240,7 +295,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -251,7 +306,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -262,7 +317,7 @@
       "subtitle": "경제전망·점도표 발표",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -273,7 +328,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -284,7 +339,7 @@
       "subtitle": "연준 정책금리·성명",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     },
@@ -295,7 +350,7 @@
       "subtitle": "3Q 실적·가이던스",
       "region": "미국",
       "time": "",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "각사"
     },
@@ -306,7 +361,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -317,7 +372,7 @@
       "subtitle": "고용보고서(Jobs Report)",
       "region": "미국",
       "time": "08:30",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "BLS"
     },
@@ -328,7 +383,7 @@
       "subtitle": "경제전망·점도표 발표",
       "region": "미국",
       "time": "14:00",
-      "timezone": "ET",
+      "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
     }
