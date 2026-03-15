@@ -38,8 +38,8 @@
     {
       "id": "kr-csi-202602",
       "date": "2026-03-13",
-      "title": "한국 2월 소비자동향지수(CSI)",
-      "subtitle": "한국은행 소비자심리지수",
+      "title": "한국 2월 소비자심리지수(CSI)",
+      "subtitle": "한국은행 소비자심리조사",
       "region": "한국",
       "time": "08:00",
       "timezone": "KST",
@@ -60,8 +60,8 @@
     {
       "id": "kr-cpi-202602",
       "date": "2026-03-20",
-      "title": "한국 2월 소비자물가등락률",
-      "subtitle": "통계청 CPI 전월·전년비",
+      "title": "한국 2월 소비자물가상승률",
+      "subtitle": "통계청 CPI 전월비·전년비",
       "region": "한국",
       "time": "08:00",
       "timezone": "KST",
@@ -245,17 +245,6 @@
       "source": "KRX"
     },
     {
-      "id": "kr-nvidia-gtc-2026",
-      "date": "2026-03-16",
-      "title": "엔비디아 GTC 2026",
-      "subtitle": "젠슨 황 기조연설",
-      "region": "미국",
-      "time": "",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "NVIDIA"
-    },
-    {
       "id": "kr-hanwha-kosdaq-etf-202603",
       "date": "2026-03-17",
       "title": "한화자산운용 코스닥 액티브 ETF 출시",
@@ -265,28 +254,6 @@
       "timezone": "KST",
       "importance": "medium",
       "source": "한화자산운용"
-    },
-    {
-      "id": "kr-fomc-202603",
-      "date": "2026-03-18",
-      "title": "FOMC 회의",
-      "subtitle": "연준 정책금리·경제전망",
-      "region": "미국",
-      "time": "14:00",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "Federal Reserve"
-    },
-    {
-      "id": "kr-ppi-202602",
-      "date": "2026-03-18",
-      "title": "미국 2월 생산자물가지수(PPI)",
-      "subtitle": "물가 선행 지표",
-      "region": "미국",
-      "time": "08:30",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "BLS"
     },
     {
       "id": "kr-lisasu-amd-202603",
@@ -300,17 +267,6 @@
       "source": ""
     },
     {
-      "id": "kr-micron-earnings-202603",
-      "date": "2026-03-18",
-      "title": "마이크론 테크놀로지 실적 발표",
-      "subtitle": "반도체 업종 참고",
-      "region": "미국",
-      "time": "",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "Micron"
-    },
-    {
       "id": "kr-samsung-shareholder-202603",
       "date": "2026-03-18",
       "title": "삼성전자 주주총회",
@@ -320,28 +276,6 @@
       "timezone": "KST",
       "importance": "high",
       "source": "삼성전자"
-    },
-    {
-      "id": "kr-boj-rate-202603",
-      "date": "2026-03-19",
-      "title": "BOJ 금리 결정",
-      "subtitle": "일본은행 정책금리",
-      "region": "일본",
-      "time": "",
-      "timezone": "JST",
-      "importance": "high",
-      "source": "BOJ"
-    },
-    {
-      "id": "kr-ecb-rate-202603",
-      "date": "2026-03-19",
-      "title": "ECB 금리 결정",
-      "subtitle": "유럽중앙은행 정책금리",
-      "region": "유로존",
-      "time": "",
-      "timezone": "CET",
-      "importance": "high",
-      "source": "ECB"
     },
     {
       "id": "kr-crimson-desert-202603",
@@ -364,6 +298,149 @@
       "timezone": "KST",
       "importance": "medium",
       "source": ""
+    },
+    {
+      "id": "kr-earnings-4q-2026",
+      "date": "2026-01-29",
+      "title": "주요 기업 4분기 실적발표 시즌",
+      "subtitle": "삼성전자·SK하이닉스 등 연간·4Q 실적",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-msci-review-202602",
+      "date": "2026-02-10",
+      "title": "MSCI 지수 분기 리뷰 발표",
+      "subtitle": "편입·편출 종목 발표, 패시브 자금 수급 변동",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "MSCI"
+    },
+    {
+      "id": "kr-shareholder-season-202603",
+      "date": "2026-03-13",
+      "title": "정기 주주총회 시즌",
+      "subtitle": "배당 확정·주주환원 정책 발표",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-earnings-1q-2026",
+      "date": "2026-04-30",
+      "title": "주요 기업 1분기 실적발표 시즌",
+      "subtitle": "1Q 실적·가이던스",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-msci-review-202605",
+      "date": "2026-05-14",
+      "title": "MSCI 지수 반기 리뷰 발표",
+      "subtitle": "편입·편출·비중 조정, 패시브 자금 변동",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "MSCI"
+    },
+    {
+      "id": "kr-kospi200-rebal-202606",
+      "date": "2026-06-20",
+      "title": "KOSPI200 지수 정기조정",
+      "subtitle": "KRX 반기 구성종목 조정",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-dividend-mid-2026",
+      "date": "2026-06-30",
+      "title": "반기 배당 기준일",
+      "subtitle": "상반기 배당 기준일 집중, 배당락 주의",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-earnings-2q-2026",
+      "date": "2026-07-30",
+      "title": "주요 기업 2분기 실적발표 시즌",
+      "subtitle": "2Q 실적·가이던스",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-msci-review-202608",
+      "date": "2026-08-12",
+      "title": "MSCI 지수 분기 리뷰 발표",
+      "subtitle": "편입·편출 종목 발표",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "MSCI"
+    },
+    {
+      "id": "kr-earnings-3q-2026",
+      "date": "2026-10-30",
+      "title": "주요 기업 3분기 실적발표 시즌",
+      "subtitle": "3Q 실적·가이던스",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-msci-review-202611",
+      "date": "2026-11-12",
+      "title": "MSCI 지수 반기 리뷰 발표",
+      "subtitle": "편입·편출·비중 조정",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "MSCI"
+    },
+    {
+      "id": "kr-kospi200-rebal-202612",
+      "date": "2026-12-20",
+      "title": "KOSPI200 지수 정기조정",
+      "subtitle": "KRX 반기 구성종목 조정",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-dividend-year-end-2026",
+      "date": "2026-12-31",
+      "title": "연말 배당 기준일",
+      "subtitle": "연말 배당·대주주 양도세 요건 관련 변동성 주의",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
     }
   ]
 }
