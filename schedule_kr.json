@@ -3,6 +3,72 @@
   "region": "한국",
   "events": [
     {
+      "id": "kr-option-exp-202601",
+      "date": "2026-01-08",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202601",
+      "date": "2026-01-15",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-earnings-4q-2026",
+      "date": "2026-01-29",
+      "title": "주요 기업 4분기 실적발표 시즌",
+      "subtitle": "삼성전자·SK하이닉스 등 연간·4Q 실적",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
+      "id": "kr-msci-review-202602",
+      "date": "2026-02-10",
+      "title": "MSCI 지수 분기 리뷰 발표",
+      "subtitle": "편입·편출 종목 발표, 패시브 자금 수급 변동",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "MSCI"
+    },
+    {
+      "id": "kr-option-exp-202602",
+      "date": "2026-02-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202602",
+      "date": "2026-02-26",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
       "id": "kr-trade-202602",
       "date": "2026-03-06",
       "title": "한국 2월 무역수지",
@@ -36,6 +102,39 @@
       "source": "한국은행"
     },
     {
+      "id": "kr-futures-exp-202603",
+      "date": "2026-03-12",
+      "title": "한국 선물만기(분기)",
+      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202603",
+      "date": "2026-03-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-shareholder-season-202603",
+      "date": "2026-03-13",
+      "title": "정기 주주총회 시즌",
+      "subtitle": "배당 확정·주주환원 정책 발표",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "각사 공시"
+    },
+    {
       "id": "kr-csi-202602",
       "date": "2026-03-13",
       "title": "한국 2월 소비자심리지수(CSI)",
@@ -56,193 +155,6 @@
       "timezone": "KST",
       "importance": "medium",
       "source": "통계청"
-    },
-    {
-      "id": "kr-cpi-202602",
-      "date": "2026-03-20",
-      "title": "한국 2월 소비자물가상승률",
-      "subtitle": "통계청 CPI 전월비·전년비",
-      "region": "한국",
-      "time": "08:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "통계청"
-    },
-    {
-      "id": "kr-option-exp-202601",
-      "date": "2026-01-08",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202602",
-      "date": "2026-02-12",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202603",
-      "date": "2026-03-12",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-futures-exp-202603",
-      "date": "2026-03-12",
-      "title": "한국 선물만기(분기)",
-      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202604",
-      "date": "2026-04-09",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202605",
-      "date": "2026-05-14",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202606",
-      "date": "2026-06-11",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-futures-exp-202606",
-      "date": "2026-06-11",
-      "title": "한국 선물만기(분기)",
-      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202607",
-      "date": "2026-07-09",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202608",
-      "date": "2026-08-13",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202609",
-      "date": "2026-09-10",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-futures-exp-202609",
-      "date": "2026-09-10",
-      "title": "한국 선물만기(분기)",
-      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202610",
-      "date": "2026-10-08",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202611",
-      "date": "2026-11-12",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-option-exp-202612",
-      "date": "2026-12-10",
-      "title": "한국 옵션만기(월간)",
-      "subtitle": "KOSPI200 옵션 월간 만기·결제",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
-    },
-    {
-      "id": "kr-futures-exp-202612",
-      "date": "2026-12-10",
-      "title": "한국 선물만기(분기)",
-      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
-      "region": "한국",
-      "time": "10:00",
-      "timezone": "KST",
-      "importance": "high",
-      "source": "KRX"
     },
     {
       "id": "kr-hanwha-kosdaq-etf-202603",
@@ -300,37 +212,37 @@
       "source": ""
     },
     {
-      "id": "kr-earnings-4q-2026",
-      "date": "2026-01-29",
-      "title": "주요 기업 4분기 실적발표 시즌",
-      "subtitle": "삼성전자·SK하이닉스 등 연간·4Q 실적",
+      "id": "kr-cpi-202602",
+      "date": "2026-03-20",
+      "title": "한국 2월 소비자물가상승률",
+      "subtitle": "통계청 CPI 전월비·전년비",
       "region": "한국",
-      "time": "",
+      "time": "08:00",
       "timezone": "KST",
       "importance": "high",
-      "source": "각사 공시"
+      "source": "통계청"
     },
     {
-      "id": "kr-msci-review-202602",
-      "date": "2026-02-10",
-      "title": "MSCI 지수 분기 리뷰 발표",
-      "subtitle": "편입·편출 종목 발표, 패시브 자금 수급 변동",
+      "id": "kr-option-exp-202604",
+      "date": "2026-04-09",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
       "region": "한국",
-      "time": "",
+      "time": "10:00",
       "timezone": "KST",
       "importance": "high",
-      "source": "MSCI"
+      "source": "KRX"
     },
     {
-      "id": "kr-shareholder-season-202603",
-      "date": "2026-03-13",
-      "title": "정기 주주총회 시즌",
-      "subtitle": "배당 확정·주주환원 정책 발표",
+      "id": "kr-bok-rate-202604",
+      "date": "2026-04-10",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
       "region": "한국",
-      "time": "",
+      "time": "10:00",
       "timezone": "KST",
       "importance": "high",
-      "source": "각사 공시"
+      "source": "한국은행"
     },
     {
       "id": "kr-earnings-1q-2026",
@@ -355,6 +267,50 @@
       "source": "MSCI"
     },
     {
+      "id": "kr-option-exp-202605",
+      "date": "2026-05-14",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202605",
+      "date": "2026-05-28",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-futures-exp-202606",
+      "date": "2026-06-11",
+      "title": "한국 선물만기(분기)",
+      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202606",
+      "date": "2026-06-11",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
       "id": "kr-kospi200-rebal-202606",
       "date": "2026-06-20",
       "title": "KOSPI200 지수 정기조정",
@@ -375,6 +331,28 @@
       "timezone": "KST",
       "importance": "medium",
       "source": "각사 공시"
+    },
+    {
+      "id": "kr-option-exp-202607",
+      "date": "2026-07-09",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202607",
+      "date": "2026-07-16",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
     },
     {
       "id": "kr-earnings-2q-2026",
@@ -399,6 +377,72 @@
       "source": "MSCI"
     },
     {
+      "id": "kr-option-exp-202608",
+      "date": "2026-08-13",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202608",
+      "date": "2026-08-27",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-futures-exp-202609",
+      "date": "2026-09-10",
+      "title": "한국 선물만기(분기)",
+      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202609",
+      "date": "2026-09-10",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202610",
+      "date": "2026-10-08",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202610",
+      "date": "2026-10-22",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
       "id": "kr-earnings-3q-2026",
       "date": "2026-10-30",
       "title": "주요 기업 3분기 실적발표 시즌",
@@ -419,6 +463,50 @@
       "timezone": "KST",
       "importance": "high",
       "source": "MSCI"
+    },
+    {
+      "id": "kr-option-exp-202611",
+      "date": "2026-11-12",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-bok-rate-202611",
+      "date": "2026-11-26",
+      "title": "한국은행 기준금리 결정",
+      "subtitle": "금통위 통화정책방향 결정회의",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
+      "id": "kr-futures-exp-202612",
+      "date": "2026-12-10",
+      "title": "한국 선물만기(분기)",
+      "subtitle": "KOSPI200 선물 분기 만기·결제(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
+    },
+    {
+      "id": "kr-option-exp-202612",
+      "date": "2026-12-10",
+      "title": "한국 옵션만기(월간)",
+      "subtitle": "KOSPI200 옵션 월간 만기·결제",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "KRX"
     },
     {
       "id": "kr-kospi200-rebal-202612",

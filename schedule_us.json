@@ -3,6 +3,50 @@
   "region": "미국",
   "events": [
     {
+      "id": "us-nfp-202601",
+      "date": "2026-01-09",
+      "title": "미국 12월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-fomc-202601",
+      "date": "2026-01-28",
+      "title": "FOMC 정책금리 결정",
+      "subtitle": "연준 정책금리·성명",
+      "region": "미국",
+      "time": "14:00",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "Federal Reserve"
+    },
+    {
+      "id": "us-earnings-4q-2026",
+      "date": "2026-01-30",
+      "title": "미국 주요 기업 4분기 실적 시즌",
+      "subtitle": "메가캡·은행 등 실적·가이던스",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "각사"
+    },
+    {
+      "id": "us-nfp-202602",
+      "date": "2026-02-06",
+      "title": "미국 1월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
       "id": "us-nfp-202603",
       "date": "2026-03-06",
       "title": "미국 2월 비농업 부문 고용·실업률",
@@ -80,39 +124,6 @@
       "source": "Micron"
     },
     {
-      "id": "us-fomc-202601",
-      "date": "2026-01-28",
-      "title": "FOMC 정책금리 결정",
-      "subtitle": "연준 정책금리·성명",
-      "region": "미국",
-      "time": "14:00",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "Federal Reserve"
-    },
-    {
-      "id": "us-nfp-202601",
-      "date": "2026-01-09",
-      "title": "미국 12월 비농업 부문 고용·실업률",
-      "subtitle": "고용보고서(Jobs Report)",
-      "region": "미국",
-      "time": "08:30",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "BLS"
-    },
-    {
-      "id": "us-earnings-4q-2026",
-      "date": "2026-01-30",
-      "title": "미국 주요 기업 4분기 실적 시즌",
-      "subtitle": "메가캡·은행 등 실적·가이던스",
-      "region": "미국",
-      "time": "",
-      "timezone": "ET",
-      "importance": "high",
-      "source": "각사"
-    },
-    {
       "id": "us-fomc-202603",
       "date": "2026-03-18",
       "title": "FOMC 정책금리 결정(SEP)",
@@ -122,6 +133,17 @@
       "timezone": "ET",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-nfp-202604",
+      "date": "2026-04-03",
+      "title": "미국 3월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
     },
     {
       "id": "us-fomc-202604",
@@ -135,6 +157,39 @@
       "source": "Federal Reserve"
     },
     {
+      "id": "us-earnings-1q-2026",
+      "date": "2026-04-30",
+      "title": "미국 주요 기업 1분기 실적 시즌",
+      "subtitle": "1Q 실적·가이던스",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "각사"
+    },
+    {
+      "id": "us-nfp-202605",
+      "date": "2026-05-08",
+      "title": "미국 4월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-nfp-202606",
+      "date": "2026-06-05",
+      "title": "미국 5월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
       "id": "us-fomc-202606",
       "date": "2026-06-17",
       "title": "FOMC 정책금리 결정(SEP)",
@@ -144,6 +199,17 @@
       "timezone": "ET",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-nfp-202607",
+      "date": "2026-07-02",
+      "title": "미국 6월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
     },
     {
       "id": "us-fomc-202607",
@@ -157,6 +223,39 @@
       "source": "Federal Reserve"
     },
     {
+      "id": "us-earnings-2q-2026",
+      "date": "2026-07-30",
+      "title": "미국 주요 기업 2분기 실적 시즌",
+      "subtitle": "2Q 실적·가이던스",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "각사"
+    },
+    {
+      "id": "us-nfp-202608",
+      "date": "2026-08-07",
+      "title": "미국 7월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-nfp-202609",
+      "date": "2026-09-04",
+      "title": "미국 8월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
       "id": "us-fomc-202609",
       "date": "2026-09-16",
       "title": "FOMC 정책금리 결정(SEP)",
@@ -168,6 +267,17 @@
       "source": "Federal Reserve"
     },
     {
+      "id": "us-nfp-202610",
+      "date": "2026-10-02",
+      "title": "미국 9월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
       "id": "us-fomc-202610",
       "date": "2026-10-28",
       "title": "FOMC 정책금리 결정",
@@ -177,6 +287,39 @@
       "timezone": "ET",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-earnings-3q-2026",
+      "date": "2026-10-30",
+      "title": "미국 주요 기업 3분기 실적 시즌",
+      "subtitle": "3Q 실적·가이던스",
+      "region": "미국",
+      "time": "",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "각사"
+    },
+    {
+      "id": "us-nfp-202611",
+      "date": "2026-11-06",
+      "title": "미국 10월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-nfp-202612",
+      "date": "2026-12-04",
+      "title": "미국 11월 비농업 부문 고용·실업률",
+      "subtitle": "고용보고서(Jobs Report)",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "ET",
+      "importance": "high",
+      "source": "BLS"
     },
     {
       "id": "us-fomc-202612",
