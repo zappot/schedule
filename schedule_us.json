@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14",
+  "updated": "2026-03-21",
   "region": "미국",
   "events": [
     {
@@ -190,6 +190,39 @@
       "source": "U-Mich"
     },
     {
+      "id": "us-ism-mfg-202603",
+      "date": "2026-04-01",
+      "title": "미국 3월 ISM 제조업 PMI",
+      "subtitle": "제조업 경기·물가 압력 참고",
+      "region": "미국",
+      "time": "10:00",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "ISM"
+    },
+    {
+      "id": "us-holiday-goodfriday-2026",
+      "date": "2026-04-03",
+      "title": "미국 증시 휴장(Good Friday)",
+      "subtitle": "NYSE·Nasdaq 휴장(당일 NFP 등 경제지표는 통상 발표)",
+      "region": "미국",
+      "time": "",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "거래소 캘린더"
+    },
+    {
+      "id": "us-ism-svc-202603",
+      "date": "2026-04-02",
+      "title": "미국 3월 ISM 비제조업 PMI",
+      "subtitle": "서비스업 경기·고용 관련 설문(4/3 Good Friday 인접 시 전후 이동 가능)",
+      "region": "미국",
+      "time": "10:00",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "ISM"
+    },
+    {
       "id": "us-nfp-202604",
       "date": "2026-04-03",
       "title": "미국 3월 비농업 부문 고용·실업률",
@@ -201,6 +234,39 @@
       "source": "BLS"
     },
     {
+      "id": "us-cpi-202604",
+      "date": "2026-04-10",
+      "title": "미국 3월 CPI(소비자물가)",
+      "subtitle": "물가·금리 기대에 직접 영향",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "BLS"
+    },
+    {
+      "id": "us-ppi-202604",
+      "date": "2026-04-14",
+      "title": "미국 3월 PPI(생산자물가)",
+      "subtitle": "물가 선행 지표",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "medium",
+      "source": "BLS"
+    },
+    {
+      "id": "us-retail-sales-202604",
+      "date": "2026-04-15",
+      "title": "미국 3월 소매판매(Retail Sales)",
+      "subtitle": "소비 동향·경기 참고",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "Census"
+    },
+    {
       "id": "us-fomc-202604",
       "date": "2026-04-29",
       "title": "FOMC 정책금리 결정",
@@ -210,6 +276,28 @@
       "timezone": "EDT",
       "importance": "high",
       "source": "Federal Reserve"
+    },
+    {
+      "id": "us-pce-202604",
+      "date": "2026-04-30",
+      "title": "미국 3월 PCE 물가·개인소득",
+      "subtitle": "연준이 중시하는 물가 지표",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "BEA"
+    },
+    {
+      "id": "us-gdp-adv-2026q1",
+      "date": "2026-04-30",
+      "title": "미국 2026년 1분기 GDP 속보",
+      "subtitle": "BEA 분기 실질 GDP 1차 추정",
+      "region": "미국",
+      "time": "08:30",
+      "timezone": "EDT",
+      "importance": "high",
+      "source": "BEA"
     },
     {
       "id": "us-earnings-1q-2026",

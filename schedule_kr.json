@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14",
+  "updated": "2026-03-21",
   "region": "한국",
   "events": [
     {
@@ -234,6 +234,17 @@
       "source": "통계청"
     },
     {
+      "id": "kr-treasury-auction-202603",
+      "date": "2026-03-24",
+      "title": "한국 국고·국채 정례입찰",
+      "subtitle": "기획재정부 국채 입찰, 금리·유동성 참고",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "기획재정부"
+    },
+    {
       "id": "kr-coincident-index-202602",
       "date": "2026-03-28",
       "title": "한국 2월 경기동행지수",
@@ -243,6 +254,17 @@
       "timezone": "KST",
       "importance": "medium",
       "source": "통계청"
+    },
+    {
+      "id": "kr-quarter-end-202603",
+      "date": "2026-03-31",
+      "title": "3월말·분기말 결산·리밸런싱",
+      "subtitle": "기관 분기 결산·BM 추종 수급 변동 주의",
+      "region": "한국",
+      "time": "",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "시장관행"
     },
     {
       "id": "kr-trade-prelim-202603",
@@ -256,6 +278,28 @@
       "source": "관세청"
     },
     {
+      "id": "kr-trade-202603",
+      "date": "2026-04-06",
+      "title": "한국 3월 무역수지",
+      "subtitle": "수출입 동향(확정)",
+      "region": "한국",
+      "time": "09:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "관세청"
+    },
+    {
+      "id": "kr-leading-index-202603",
+      "date": "2026-04-07",
+      "title": "한국 3월 경기선행지수",
+      "subtitle": "통계청 경기종합지수·선행지수",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "통계청"
+    },
+    {
       "id": "kr-option-exp-202604",
       "date": "2026-04-09",
       "title": "한국 옵션만기(월간)",
@@ -267,6 +311,17 @@
       "source": "KRX"
     },
     {
+      "id": "kr-csi-202603",
+      "date": "2026-04-10",
+      "title": "한국 3월 소비자심리지수(CSI)",
+      "subtitle": "한국은행 소비자심리조사",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "한국은행"
+    },
+    {
       "id": "kr-bok-rate-202604",
       "date": "2026-04-10",
       "title": "한국은행 기준금리 결정",
@@ -276,6 +331,39 @@
       "timezone": "KST",
       "importance": "high",
       "source": "한국은행"
+    },
+    {
+      "id": "kr-ip-202603",
+      "date": "2026-04-13",
+      "title": "한국 3월 산업생산지수",
+      "subtitle": "통계청 산업활동동향",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "medium",
+      "source": "통계청"
+    },
+    {
+      "id": "kr-unemployment-202603",
+      "date": "2026-04-14",
+      "title": "한국 3월 실업률",
+      "subtitle": "통계청 고용동향",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "통계청"
+    },
+    {
+      "id": "kr-cpi-202603",
+      "date": "2026-04-17",
+      "title": "한국 3월 소비자물가상승률",
+      "subtitle": "통계청 CPI 전월비·전년비",
+      "region": "한국",
+      "time": "08:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "통계청"
     },
     {
       "id": "kr-earnings-1q-2026",
@@ -342,6 +430,17 @@
       "timezone": "KST",
       "importance": "high",
       "source": "KRX"
+    },
+    {
+      "id": "kr-fsmeeting-202606",
+      "date": "2026-06-12",
+      "title": "한국은행 금융안정회의",
+      "subtitle": "금융안정상황 점검(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
     },
     {
       "id": "kr-kospi200-rebal-202606",
@@ -454,6 +553,17 @@
       "source": "KRX"
     },
     {
+      "id": "kr-fsmeeting-202609",
+      "date": "2026-09-11",
+      "title": "한국은행 금융안정회의",
+      "subtitle": "금융안정상황 점검(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
+    },
+    {
       "id": "kr-option-exp-202610",
       "date": "2026-10-08",
       "title": "한국 옵션만기(월간)",
@@ -540,6 +650,17 @@
       "timezone": "KST",
       "importance": "high",
       "source": "KRX"
+    },
+    {
+      "id": "kr-fsmeeting-202612",
+      "date": "2026-12-11",
+      "title": "한국은행 금융안정회의",
+      "subtitle": "금융안정상황 점검(3·6·9·12월)",
+      "region": "한국",
+      "time": "10:00",
+      "timezone": "KST",
+      "importance": "high",
+      "source": "한국은행"
     },
     {
       "id": "kr-kospi200-rebal-202612",
